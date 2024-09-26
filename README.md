@@ -122,3 +122,12 @@ Trademarks This project may contain trademarks or logos for projects, products, 
 
 ## License - Azure Developer CLI Templates Trust Notice
 Learn more about running third-party code on [our DevHub](https://learn.microsoft.com/azure/developer/azure-developer-cli/azd-templates#guidelines-for-using-azd-templates)
+
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
