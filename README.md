@@ -16,6 +16,14 @@ The Azure Developer CLI (`azd`) is a developer-centric command-line interface (C
 
 To take full advantage of the CLI, code repositories need to conform to a well defined set of conventions that will be recognized by the tooling. Please checkout the [wiki](https://github.com/Azure/azure-dev/wiki) for more information and to get started. Use [discussions](https://github.com/Azure/azure-dev/discussions) to participate in the conversation, ask questions, and see the latest announcements.
 
+![](https://i.imgur.com/waxVImv.png)
+
+# Roadmaps are now interactive, you can click the nodes to read more about the topics.
+
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
+![](https://i.imgur.com/waxVImv.png)
+
 ## Install/Upgrade Azure Developer CLI
 
 Install and Upgrade using the following scripts. Re-running the script will install the latest available version.
@@ -123,11 +131,18 @@ Trademarks This project may contain trademarks or logos for projects, products, 
 ## License - Azure Developer CLI Templates Trust Notice
 Learn more about running third-party code on [our DevHub](https://learn.microsoft.com/azure/developer/azure-developer-cli/azd-templates#guidelines-for-using-azd-templates)
 
-### [Contact an Author]
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
+
